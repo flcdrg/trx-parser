@@ -62,7 +62,7 @@
     "husky": "^6.0.0",
     "jest": "^24.9.0",
     "jest-circus": "^26.6.3",
-    "js-yaml": "^4.0.0",
+    "js-yaml": "^4.1.1",
     "lint-staged": "^10.5.4",
     "prettier": "2.2.1",
     "ts-jest": "^24.3.0",
